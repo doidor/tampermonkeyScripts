@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         RARBG Top 100 page IMDB scrapper
-// @namespace    http://tampermonkey.net/
+// @namespace    doidor/tampermonkey
+// @downloadUrl  https://raw.githubusercontent.com/doidor/tampermonkeyScripts/master/rarbg.js
+// @supportUrl   https://github.com/doidor/tampermonkeyScripts/blob/master/rarbg.js
 // @version      1
 // @description  Scrapes rarbg.to torrent pages for movies with the imdb score higher than X (default rating is 7)
 // @author       You
-// @match        https://rarbgmirror.org/*
+// @match        https://rarbgp2p.org/*
 // @grant        none
 // ==/UserScript==
 
