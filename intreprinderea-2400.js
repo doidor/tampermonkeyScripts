@@ -25,8 +25,6 @@
         const mElMain = document.querySelector(".et_pb_row.et_pb_row_0_tb_body.et_pb_row_fullwidth.et_pb_equal_columns.et_pb_gutters1.et_pb_row_1-4_1-2_1-4");
         const mElArticle = document.querySelector(".et_pb_row.et_pb_row_1_tb_body.et_pb_row_fullwidth.et_pb_equal_columns.et_pb_gutters1.et_pb_row_1-4_1-2_1-4");
 
-        console.log(mElMain, mElArticle);
-
         if (mElMain) {
             mElMain.style.height = "auto";
         }
